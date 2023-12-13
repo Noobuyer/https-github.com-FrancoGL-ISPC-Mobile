@@ -33,6 +33,7 @@ En el siguiente enlace se puede visualizar el diseño del sitio así como el Sit
 * [María Paula Tkaczuk](https://github.com/Pautk)
 * [Pedro Tarrago](https://github.com/pepi1100)
 * [Alan Federico Silva](https://github.com/federico42o/)
+* ERNESTO AGUSTIN CEVASCO
 
 
 # Video presentación
